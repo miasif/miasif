@@ -14,7 +14,7 @@
 
 I'm a Software Engineer 💻, alumus of [American International University-Bangladesh (AIUB) 🎓](https://www.aiub.edu/).I wish to be a competent and capable member of the software industry. I want to use my knowledge about software and computation to build user-friendly and capable applications and services. I hope to contribute to the growth of the software industry. I also hope to contribute towards my own growth as well as my co-workers.
 
-<img align="right" height="250" width="375" alt="" src="https://github.com/miasif/miasif/blob/master/code.gif" />
+<img align="right" height="250" width="375" alt="" src="https://www.techbabble.zone/content/images/2021/07/46207-programmer-1.gif" />
 
 ### Talking about Personal Stuffs:
 
